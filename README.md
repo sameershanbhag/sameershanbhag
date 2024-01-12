@@ -16,7 +16,6 @@ To know more about me please keep reading...
 - 💼 **LinkedIn**: [LinkedIn/sameershanbhag](https://linkedin.com/in/sameershanbhag)
 - 🌐 **Portfolio**: [sameershanbhag.com](https://sameershanbhag.com)
 - 💻 **GitHub**: [GitHub/sameershanbhag](https://github.com/sameershanbhag)
-- 📝 **Resume**: [Resume - Google Drive](https://drive.google.com/file/d/1CyDfgsYK4oSOSNHed52jv2szaxwqg6d3/view)
 
 As a dynamic and innovative Software Engineer, I specialize in full-stack development with a robust skill set in Python, Java, web technologies, and cloud infrastructure. My expertise encompasses a broad spectrum from API and web development to machine learning and cloud deployment. With professional experience at Qualcomm, Loraine Labs, and Morgan Stanley, I've honed my abilities in streamlining processes, pioneering tools, and leading projects to success. My academic background with a Master's in Computer Science from the University of North Carolina at Charlotte complements my practical skills, enabling me to adapt and excel in diverse technological landscapes.
 
